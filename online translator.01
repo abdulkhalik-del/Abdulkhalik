@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description"  content="online dictionary">
+    <title>uz-eng dictionary</title>
+    <link rel="stylesheet"type="text/css" href="semantic-ui/semantic.min.css">
+  </head>
+  <body>
+  <div class="ui header segment">
+    <div class="ui container">
+      <h1 class="ui header">online dictionary</h1>
+      <div class="ui divider">
+      </div><p>fast convenient and free translator</p></div>
+    </div>
+  </div>
+  <div class="ui container">
+    <div class="ui placeholder segment">
+      <div class="ui icon header">
+        English-Uzbek Uzbek-English
+      </div>
+
+      <div class="inline" style="width:90%;" >
+        <div class="ui massive form search">
+          <div class="ui icon input"  style="width:100%">
+            <input class="prompt" type="text"placeholder="enter the desired word"/>
+              <i class="search link icon"></i>
+             </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+  </body>
+</html>
